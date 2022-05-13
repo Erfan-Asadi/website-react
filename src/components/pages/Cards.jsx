@@ -13,7 +13,7 @@ function Cards() {
                             text="Explore the hidden waterfall deep
                                   inside the Amazon Jungle" 
                             label="Advanture"
-                            path="/services"   />
+                            path="/services"   />  
                         <CardItem
                             src={require("../../assets/images/img-2.jpg")}
                             text="Travel through the Islands of Bali in
