@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/website-react/static/css/main.a034feee.css",
+    "main.js": "/website-react/static/js/main.8df55c05.js",
+    "static/media/video-2.mp4": "/website-react/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/img-2.jpg": "/website-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-3.jpg": "/website-react/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-5.jpg": "/website-react/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-1.jpg": "/website-react/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-7.jpg": "/website-react/static/media/img-7.dfeef5257053ba651d89.jpg",
+    "static/media/img-9.jpg": "/website-react/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/website-react/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/website-react/index.html",
+    "main.a034feee.css.map": "/website-react/static/css/main.a034feee.css.map",
+    "main.8df55c05.js.map": "/website-react/static/js/main.8df55c05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a034feee.css",
+    "static/js/main.8df55c05.js"
+  ]
+}
