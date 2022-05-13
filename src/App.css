@@ -10,7 +10,7 @@
 .products,
 .sign-up {
   display: flex;
-  height: 90vh;
+  height: calc(100vh - 80px);
   align-items: center;
   justify-content: center;
   font-size: 3rem;
@@ -41,4 +41,18 @@
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+}
+
+@media screen and (max-width: 480px) {
+
+  .home,
+  .services,
+  .products,
+  .sign-up {
+    display: flex;
+    height: calc(100vh - 80px);
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem !important;
+  }
 }

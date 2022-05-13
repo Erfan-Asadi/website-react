@@ -5,7 +5,7 @@ import '../App.css';
 const Herosection = () => {
     return (
         <div className='hero-container'>
-            <video src={require('../assets/videos/video-2.mp4')} autoPlay muted loop />
+            <video src={require('../assets/videos/video-1.mp4')} autoPlay muted loop />
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
             <div className='hero-btns'>
